@@ -397,7 +397,6 @@ a {
 }
 
 .MercedesMaybach article:first-of-type div:first-of-type {
-/*     background-color: var(--secondary-background-color); */ /* ARREGLAR EN MEDIA QUERY */
     color: var(--secondary-font-color);
     position: absolute;
     z-index: 2;
